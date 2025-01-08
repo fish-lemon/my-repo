@@ -1,0 +1,18 @@
+# 忽略 Windows 系統檔案和目錄
+*.log
+*.dat
+*.ini
+*.blf
+*.regtrans-ms
+NTUSER.*
+AppData/
+Cookies/
+Desktop.ini
+Thumbs.db
+.DS_Store
+
+# 忽略其他無關的檔案和目錄
+iCloudDrive/
+OneDrive/
+Saved Games/
+Searches/
